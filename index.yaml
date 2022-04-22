@@ -3,12 +3,12 @@ entries:
   app:
   - apiVersion: v2
     appVersion: latest
-    created: "2022-04-22T02:10:21.3961059+07:00"
+    created: "2022-04-22T12:33:53.4622965+07:00"
     description: A Helm chart for backend
     digest: 98393246ae78d34d3562d986a717a19fe5b7c81f442f668a843772cf9c5fae0f
     name: app
     type: application
     urls:
-    - https://phamsang1301.github.io/chart-fe/app-0.1.0.tgz
+    - https://phamsang1301.github.io/chart-be/app-0.1.0.tgz
     version: 0.1.0
-generated: "2022-04-22T02:10:21.3923317+07:00"
+generated: "2022-04-22T12:33:53.4612526+07:00"
